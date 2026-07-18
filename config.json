@@ -1,0 +1,13 @@
+{
+    "prismatik_exe": "C:\\Program Files\\Prismatik\\Prismatik.exe",
+    "prismatik_config_dir": "./prismatik-config",
+    "prismatik_profile": "LG-38GN950",
+    "prismatik_no_gui": false,
+    "static_colors": {
+        "1": "ff0000",
+        "2": "00ff00",
+        "3": "ffff00",
+        "4": "0000ff"
+    },
+    "sync_enabled": true
+}
